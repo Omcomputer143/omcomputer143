@@ -1,4 +1,4 @@
-## Hi there 👋
+hello word 
 
 <!--
 **Omcomputer143/omcomputer143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
